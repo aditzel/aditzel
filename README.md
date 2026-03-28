@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=100&lines=%24+whoami;Senior+Director+of+Software+Engineering+%40+Alarm.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=670&height=100&lines=%24+whoami;Senior+Director+of+Software+Engineering+%40+Alarm.com)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=aditzel&style=flat-square&color=00ff00&label=VISITORS" alt="visitor counter"/>
 
