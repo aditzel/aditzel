@@ -220,8 +220,8 @@ hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  🇪🇸 🇨🇱 🇩🇪 🇺🇸  Four flags. One engineer.                             ║
-║  今日も頑張ります。                                                    ║
+║  🇪🇸 🇨🇱 🇩🇪 🇺🇸  Four flags. One engineer.                              ║
+║  今日も頑張ります。                                                     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
