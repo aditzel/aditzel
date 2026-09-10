@@ -77,6 +77,39 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 ![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
+**`AGENT HARNESSES`**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Kimi Code](https://img.shields.io/badge/Kimi%20Code-%23000000.svg?style=for-the-badge&logo=kimi&logoColor=white)
+![Cursor CLI](https://img.shields.io/badge/Cursor%20CLI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex%20CLI-%23000000.svg?style=for-the-badge)
+![Kilo Code](https://img.shields.io/badge/Kilo%20Code-%23000000.svg?style=for-the-badge)
+![Droid](https://img.shields.io/badge/Droid-%23000000.svg?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/Hermes-%23000000.svg?style=for-the-badge)
+![GrokBot](https://img.shields.io/badge/GrokBot-%23000000.svg?style=for-the-badge)
+
+**`DAILY DRIVER MODELS`**
+
+![GPT](https://img.shields.io/badge/GPT-%23412991.svg?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Kimi K](https://img.shields.io/badge/Kimi%20K-%23000000.svg?style=for-the-badge&logo=kimi&logoColor=white)
+![Z.AI GLM](https://img.shields.io/badge/Z.AI%20GLM-%234F46E5.svg?style=for-the-badge)
+![Composer](https://img.shields.io/badge/Composer-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-%23000000.svg?style=for-the-badge)
+![MiMo](https://img.shields.io/badge/MiMo-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+
+**`DEV ENVIRONMENTS`**
+
+![Cursor Desktop](https://img.shields.io/badge/Cursor%20Desktop-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude App](https://img.shields.io/badge/Claude%20App-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Codex Desktop](https://img.shields.io/badge/Codex%20Desktop-%23000000.svg?style=for-the-badge)
+![Orca](https://img.shields.io/badge/Orca-%23000000.svg?style=for-the-badge)
+![Conductor](https://img.shields.io/badge/Conductor-%23000000.svg?style=for-the-badge)
+![Warp](https://img.shields.io/badge/Warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white)
+![T3 Code](https://img.shields.io/badge/T3%20Code-%23000000.svg?style=for-the-badge)
+![CMUX](https://img.shields.io/badge/CMUX-%23000000.svg?style=for-the-badge)
+
 **`INFRASTRUCTURE & CLOUD`**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
