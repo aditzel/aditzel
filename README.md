@@ -28,7 +28,7 @@
 │  I build teams that build things that protect people's homes     │
 │  and the things they care about most.                            │
 │                                                                  │
-│  Currently leading engineering at Alarm.com — where IoT,         │
+│  Currently leading Video engineering at Alarm.com — where IoT,   │
 │  security, and cloud-native architecture converge.               │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
@@ -45,10 +45,10 @@ OS:        Senior Director of Software Engineering
 Host:      Alarm.com
 Uptime:    7 countries and counting
 Shell:     en_US / es_ES / ja_JP (学習中)
-Languages: JavaScript, TypeScript, Java, C, C++, Perl
-Arch:      Cloud Native / 12-Factor / IoT / Edge Computing
+Languages: JavaScript, TypeScript, Java, C, C++, Perl, Python
+Arch:      Agentic Development, Cloud Native / 12-Factor / IoT / Edge Computing
 Kernel:    If it protects a home, I've probably touched the stack
-Repos:     12 public | 114+ ⭐ in the Spring Security ecosystem
+Since:     GitHub class of 2011
 WWW:       allanditzel.com
 PID 1:     Madrid, ES → ... → Metro D.C.
 ```
@@ -68,6 +68,14 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**`AGENTIC DEVELOPMENT`**
+
+![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 **`INFRASTRUCTURE & CLOUD`**
 
@@ -101,9 +109,34 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 
 </div>
 
+<div align="center">
+
+<a href="https://github.com/aditzel/mcp-squared">
+  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=mcp-squared&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="mcp-squared"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/aditzel/wavespeed-cli">
+  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=wavespeed-cli&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="wavespeed-cli"/>
+</a>
+
+</div>
+
 ```
 > # Securing the web, one CSRF token at a time.
-> # 114+ stars across the Spring Security ecosystem.
+> # 116+ stars across the Spring Security ecosystem.
+> # Now shipping the agentic toolchain: MCP control planes + AI CLIs.
+```
+
+---
+
+### `> cat ~/now.txt`
+
+```bash
+# currently hacking
+arena-dodger ............ Godot 4.7 arena dodger + agent harness (GDScript)
+project-settings-sync ... .env sync across machines via Backblaze B2 (TypeScript)
+caldotcom-api-v2-sdk .... type-safe Cal.com v2 API client (TypeScript)
+hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
 ```
 
 ---
@@ -114,7 +147,7 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 
 <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api?username=aditzel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzel&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=aditzel&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak" height="180"/>
 
 </div>
 
