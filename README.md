@@ -100,11 +100,11 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 <div align="center">
 
 <a href="https://github.com/aditzel/spring-security-csrf-filter">
-  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-filter&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-filter"/>
+  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-filter&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-filter"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aditzel/spring-security-csrf-token-interceptor">
-  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-token-interceptor&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-token-interceptor"/>
+  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-token-interceptor&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-token-interceptor"/>
 </a>
 
 </div>
@@ -112,11 +112,11 @@ PID 1:     Madrid, ES → ... → Metro D.C.
 <div align="center">
 
 <a href="https://github.com/aditzel/mcp-squared">
-  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=mcp-squared&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="mcp-squared"/>
+  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=mcp-squared&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="mcp-squared"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aditzel/wavespeed-cli">
-  <img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=wavespeed-cli&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="wavespeed-cli"/>
+  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=wavespeed-cli&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="wavespeed-cli"/>
 </a>
 
 </div>
@@ -145,7 +145,7 @@ hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
 
 <div align="center">
 
-<img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api?username=aditzel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-mirai-forge.vercel.app/api?username=aditzel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=aditzel&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak" height="180"/>
 
@@ -153,7 +153,7 @@ hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
 
 <div align="center">
 
-<img src="https://github-readme-stats-9kx7aape7-mirai-forge.vercel.app/api/top-langs/?username=aditzel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats-mirai-forge.vercel.app/api/top-langs/?username=aditzel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" height="160"/>
 
 </div>
 
