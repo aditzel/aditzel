@@ -230,7 +230,6 @@ hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allan-ditzel)
 [![Blog](https://img.shields.io/badge/Blog-00ff00?style=for-the-badge&logo=hugo&logoColor=black)](http://www.allanditzel.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
