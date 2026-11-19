@@ -120,7 +120,8 @@ QUEST LOG
 "Let's not wear pants
  on our head."
 
-🇪🇸 🇨🇱 🇩🇪 🇺🇸  今日も頑張ります。
+🇪🇸 🇨🇱 🇩🇪 🇺🇸
+今日も頑張ります。
 
 GAME OVER
 CONTINUE? 9 8 7 6 5 ...
