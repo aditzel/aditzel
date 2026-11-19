@@ -5,8 +5,8 @@
 </div>
 
 ```text
-**** ADITZEL SYSTEMS BASIC V2 ****
- 25+ YEARS UPTIME. 7 COUNTRIES.
+*** ADITZEL BASIC V2 ***
+25+ YEARS UP. 7 COUNTRIES.
 
 READY.
 LOAD "WHOAMI",8,1
@@ -60,16 +60,17 @@ A factory is only as good as its gates. Anyone can make agents produce code fast
 ```text
 QUEST LOG
 [ ] How far does "spec in,
-    verified change out" really go?
-[ ] Verification that scales with
-    agent output
-[ ] Blind bake-offs of AI code
-    reviewers
-[ ] Same task, different harness:
-    who wins?
-[ ] Plumbing that works in every
-    harness: MCP gateways, shared
-    agent memory
+    verified change out"
+    really go?
+[ ] Verification that scales
+    with agent output
+[ ] Blind bake-offs of AI
+    code reviewers
+[ ] Same task, different
+    harness: who wins?
+[ ] Plumbing for every
+    harness: MCP gateways,
+    shared agent memory
 ```
 
 ---
@@ -113,9 +114,11 @@ QUEST LOG
 
 ```text
 "Don't want to get paged at 3am?
- Make better technical decisions."
+ Make better technical
+ decisions."
 
-"Let's not wear pants on our head."
+"Let's not wear pants
+ on our head."
 
 🇪🇸 🇨🇱 🇩🇪 🇺🇸  今日も頑張ります。
 
