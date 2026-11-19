@@ -1,246 +1,132 @@
+<div align="center">
+
+<img src="assets/header.svg" width="100%" alt="ADITZEL: rebuilding the SDLC for the agentic age. Press start."/>
+
+</div>
+
+```text
+**** ADITZEL SYSTEMS BASIC V2 ****
+ 25+ YEARS UPTIME. 7 COUNTRIES.
+
+READY.
+LOAD "WHOAMI",8,1
+LOADING...
+READY.
+RUN
 ```
- █████╗ ██████╗ ██╗████████╗███████╗███████╗██╗
-██╔══██╗██╔══██╗██║╚══██╔══╝╚══███╔╝██╔════╝██║
-███████║██║  ██║██║   ██║     ███╔╝ █████╗  ██║
-██╔══██║██║  ██║██║   ██║    ███╔╝  ██╔══╝  ██║
-██║  ██║██████╔╝██║   ██║   ███████╗███████╗███████╗
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝
-```
+
+**Agents write most of the code now. The hard part is knowing it's right.**
+
+I'm an engineering leader, and my current quest is rebuilding the software development lifecycle for the agentic age. Two things hold my attention: **software factories** (spec in, verified change out) and **automated verification** strong enough that a human only has to hold the last gate.
+
+---
+
+### `> PLAYER 1`
+
+| | |
+|---|---|
+| **CLASS** | Senior Director of Software Engineering |
+| **GUILD** | Alarm.com |
+| **SPAWN POINT** | Madrid, ES → 7 countries → Metro D.C. |
+| **TONGUES** | English · Español · 日本語 (学習中) |
+| **ONLINE SINCE** | GitHub class of 2011 |
+| **ORIGIN STORY** | Video games first. Then the code behind them. |
+
+---
+
+### `> THE FACTORY FLOOR`
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=670&height=100&lines=%24+whoami;Senior+Director+of+Software+Engineering+%40+Alarm.com)](https://git.io/typing-svg)
+<img src="assets/factory.svg" width="100%" alt="Stage select. Stage 1, Spec: intent, written down before any code. Stage 2, Agents: many harnesses, many models, one job each. Stage 3, Gates: tests, coverage, evals and AI review. Boss, Human: a person promotes it to production."/>
 
-<img src="https://komarev.com/ghpvc/?username=aditzel&style=flat-square&color=00ff00&label=VISITORS" alt="visitor counter"/>
+</div>
+
+A factory is only as good as its gates. Anyone can make agents produce code faster. The interesting problem is proving the output is right without a person reading every line.
+
+**House rules**
+
+- Agents write most of the code. A human holds the gate to production.
+- Red, green, refactor. A bug fix starts with a failing test, and no test gets deleted to make a build pass.
+- Done means lint, types, tests and build all pass with zero warnings.
+- Coverage is gated on the diff, not just the project.
+- Build once, then promote the same artifact.
+- Nothing may depend on one model, one vendor or one harness.
+
+---
+
+### `> NOW PLAYING`
+
+```text
+QUEST LOG
+[ ] How far does "spec in,
+    verified change out" really go?
+[ ] Verification that scales with
+    agent output
+[ ] Blind bake-offs of AI code
+    reviewers
+[ ] Same task, different harness:
+    who wins?
+[ ] Plumbing that works in every
+    harness: MCP gateways, shared
+    agent memory
+```
+
+---
+
+### `> INVENTORY`
+
+| SLOT | EQUIPPED |
+|---|---|
+| **Models** | GPT · Claude · Gemini · Grok · GLM-5.3 · Kimi K3.1 |
+| **Harnesses** | Claude Code · Codex CLI · Cursor CLI · OpenCode · Kimi Code · Kilo Code · Droid · Hermes · Pi · T3 Code |
+| **Factories tried** | Warp · JetBrains · Augment · Cursor · Gas City · one I built myself |
+| **Gates** | TDD · diff coverage · Playwright E2E · AI review (CodeRabbit, Codex) · Buildkite · GitHub Actions |
+| **Plumbing** | MCP · [mcp-squared](https://github.com/aditzel/mcp-squared) · agent memory (Hindsight, MuninnDB) · AGENTS.md |
+| **Languages** | TypeScript · Python · Java · JavaScript · C · C++ · Perl |
+
+---
+
+### `> HIGH SCORES`
+
+| CARTRIDGE | WHAT IT DOES | |
+|---|---|---|
+| [**mcp-squared**](https://github.com/aditzel/mcp-squared) | MCP² control plane. Shows agents the tools they need instead of every tool schema at once. | TypeScript |
+| [**hermes-muninndb-plugin**](https://github.com/aditzel/hermes-muninndb-plugin) | MuninnDB-backed memory provider for Hermes Agent. | Python |
+| [**wavespeed-cli**](https://github.com/aditzel/wavespeed-cli) | CLI for the Wavespeed AI API, built with Bun. | TypeScript |
+| [**project-settings-sync**](https://github.com/aditzel/project-settings-sync) | Encrypted `.env` sync across machines. | TypeScript |
+| [**arena-dodger**](https://github.com/aditzel/arena-dodger) | Godot 4.7 arena dodger with an agent harness. | GDScript |
+
+**Classic cabinet (2013, archived):** [spring-security-csrf-filter](https://github.com/aditzel/spring-security-csrf-filter) ★67 and [spring-security-csrf-token-interceptor](https://github.com/aditzel/spring-security-csrf-token-interceptor) ★49.
+
+---
+
+### `> ACTIVITY.LOG`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditzel&hide_border=true&bg_color=0b0221&color=05d9e8&line=ff2a6d&point=ffe45e&area=true&area_color=ff2a6d&title_color=ffe45e" alt="Contribution activity over the last month" width="100%"/>
 
 </div>
 
 ---
 
-### `> cat /etc/motd`
+```text
+"Don't want to get paged at 3am?
+ Make better technical decisions."
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  Born in Spain. Chilean roots. German & Spanish blood.           │
-│  Raised across 7 countries. Shaped by all of them.               │
-│                                                                  │
-│  I build teams that build things that protect people's homes     │
-│  and the things they care about most.                            │
-│                                                                  │
-│  Currently leading Video engineering at Alarm.com — where IoT,   │
-│  security, and cloud-native architecture converge.               │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+"Let's not wear pants on our head."
 
----
+🇪🇸 🇨🇱 🇩🇪 🇺🇸  今日も頑張ります。
 
-### `> neofetch`
-
-```bash
-aditzel@github
---------------
-OS:        Senior Director of Software Engineering
-Host:      Alarm.com
-Uptime:    7 countries and counting
-Shell:     en_US / es_ES / ja_JP (学習中)
-Languages: JavaScript, TypeScript, Java, C, C++, Perl, Python
-Arch:      Agentic Development, Cloud Native / 12-Factor / IoT / Edge Computing
-Kernel:    If it protects a home, I've probably touched the stack
-Since:     GitHub class of 2011
-WWW:       allanditzel.com
-PID 1:     Madrid, ES → ... → Metro D.C.
-```
-
----
-
-### `> ls -la ./tech_stack/`
-
-<div align="center">
-
-**`LANGUAGES`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**`AGENTIC DEVELOPMENT`**
-
-![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-
-**`AGENT HARNESSES`**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Kimi Code](https://img.shields.io/badge/Kimi%20Code-%23000000.svg?style=for-the-badge&logo=kimi&logoColor=white)
-![Cursor CLI](https://img.shields.io/badge/Cursor%20CLI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex%20CLI-%23000000.svg?style=for-the-badge)
-![Kilo Code](https://img.shields.io/badge/Kilo%20Code-%23000000.svg?style=for-the-badge)
-![Droid](https://img.shields.io/badge/Droid-%23000000.svg?style=for-the-badge)
-![Hermes](https://img.shields.io/badge/Hermes-%23000000.svg?style=for-the-badge)
-![GrokBot](https://img.shields.io/badge/GrokBot-%23000000.svg?style=for-the-badge)
-
-**`DAILY DRIVER MODELS`**
-
-![GPT](https://img.shields.io/badge/GPT-%23412991.svg?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Kimi K](https://img.shields.io/badge/Kimi%20K-%23000000.svg?style=for-the-badge&logo=kimi&logoColor=white)
-![Z.AI GLM](https://img.shields.io/badge/Z.AI%20GLM-%234F46E5.svg?style=for-the-badge)
-![Composer](https://img.shields.io/badge/Composer-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-%23000000.svg?style=for-the-badge)
-![MiMo](https://img.shields.io/badge/MiMo-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-
-**`DEV ENVIRONMENTS`**
-
-![Cursor Desktop](https://img.shields.io/badge/Cursor%20Desktop-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude App](https://img.shields.io/badge/Claude%20App-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Codex Desktop](https://img.shields.io/badge/Codex%20Desktop-%23000000.svg?style=for-the-badge)
-![Orca](https://img.shields.io/badge/Orca-%23000000.svg?style=for-the-badge)
-![Conductor](https://img.shields.io/badge/Conductor-%23000000.svg?style=for-the-badge)
-![Warp](https://img.shields.io/badge/Warp-%2301A4FF.svg?style=for-the-badge&logo=warp&logoColor=white)
-![T3 Code](https://img.shields.io/badge/T3%20Code-%23000000.svg?style=for-the-badge)
-![CMUX](https://img.shields.io/badge/CMUX-%23000000.svg?style=for-the-badge)
-
-**`INFRASTRUCTURE & CLOUD`**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**`IOT & EDGE`**
-
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Embedded-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-
-</div>
-
----
-
-### `> find ~/projects -name "*.featured" -exec cat {} \;`
-
-<div align="center">
-
-<a href="https://github.com/aditzel/spring-security-csrf-filter">
-  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-filter&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-filter"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/aditzel/spring-security-csrf-token-interceptor">
-  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=spring-security-csrf-token-interceptor&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="spring-security-csrf-token-interceptor"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/aditzel/mcp-squared">
-  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=mcp-squared&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="mcp-squared"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/aditzel/wavespeed-cli">
-  <img src="https://github-readme-stats-mirai-forge.vercel.app/api/pin/?username=aditzel&repo=wavespeed-cli&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="wavespeed-cli"/>
-</a>
-
-</div>
-
-```
-> # Securing the web, one CSRF token at a time.
-> # 116+ stars across the Spring Security ecosystem.
-> # Now shipping the agentic toolchain: MCP control planes + AI CLIs.
-```
-
----
-
-### `> cat ~/now.txt`
-
-```bash
-# currently hacking
-arena-dodger ............ Godot 4.7 arena dodger + agent harness (GDScript)
-project-settings-sync ... .env sync across machines via Backblaze B2 (TypeScript)
-caldotcom-api-v2-sdk .... type-safe Cal.com v2 API client (TypeScript)
-hermes-muninndb-plugin .. MuninnDB memory provider for Hermes Agent (Python)
-```
-
----
-
-### `> cat /proc/github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats-mirai-forge.vercel.app/api?username=aditzel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=aditzel&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-mirai-forge.vercel.app/api/top-langs/?username=aditzel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" height="160"/>
-
-</div>
-
----
-
-### `> tail -f /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditzel&theme=green&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00" alt="Activity Graph" width="95%"/>
-
-</div>
-
----
-
-### `> cat ~/.fortune | shuf -n 1`
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  $ fortune aditzel                                                   ║
-║                                                                      ║
-║  "Don't want to get paged at 3am due to something failing?           ║
-║   Make better technical decisions."                                  ║
-║                                                                      ║
-║  "Let's not wear pants on our head."                                 ║
-║                                                                      ║
-║  "You keep on using that word.                                       ║
-║   I do not think it means what you think it means."                  ║
-║                                          — also Inigo Montoya        ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  🇪🇸 🇨🇱 🇩🇪 🇺🇸  Four flags. One engineer.                              ║
-║  今日も頑張ります。                                                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+GAME OVER
+CONTINUE? 9 8 7 6 5 ...
+> INSERT COIN
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allan-ditzel)
-[![Blog](https://img.shields.io/badge/Blog-00ff00?style=for-the-badge&logo=hugo&logoColor=black)](http://www.allanditzel.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-[aditzel@github ~]$ exit
-logout
-Connection to github.com closed.
-```
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05d9e8?style=for-the-badge&logo=linkedin&logoColor=0b0221)](https://linkedin.com/in/allan-ditzel)
+[![Blog](https://img.shields.io/badge/BLOG-ff2a6d?style=for-the-badge&logoColor=white)](https://www.allanditzel.com)
 
 </div>
