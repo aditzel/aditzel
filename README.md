@@ -113,9 +113,9 @@ QUEST LOG
 ---
 
 ```text
-"Don't want to get paged at 3am?
- Make better technical
- decisions."
+"Don't want to get paged
+ at 3am? Make better
+ technical decisions."
 
 "Let's not wear pants
  on our head."
